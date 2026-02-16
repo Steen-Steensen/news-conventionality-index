@@ -1,6 +1,6 @@
 # News Conventionality Index (NCI)
 
-This repository contains R scripts for constructing a **News Conventionality Index (NCI)**: a composite measure of stylistic and epistemic conventionality in journalistic texts.
+This repository contains R scripts for constructing a **News Conventionality Index (NCI)**: a composite measure of stylistic and epistemic conventionality in news texts.
 
 The feature extraction logic is **language-agnostic**, but several features depend on **language-specific lexicons** (e.g., hedges, discourse connectives, temporal deictics, sentiment terms). The repository includes a Norwegian-oriented lexicon configuration as an example implementation.
 
