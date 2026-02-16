@@ -1,0 +1,61 @@
+
+# -----------------------------------------------------------
+# Norwegian Modal Verb Lexicon (Bokmål + Nynorsk)
+# For use in news-style modality detection
+# Categories:
+#   1. Core modal auxiliaries (epistemic + deontic + dynamic)
+#   2. Semi-modals / modal-like verbs
+#   3. Weak modal verbs (lower commitment)
+#   4. Predictive/future-oriented verbs (epistemic)
+# -----------------------------------------------------------
+
+# 1. Core modal auxiliaries (Bokmål / Nynorsk)
+kan
+kunne
+vil
+ville
+skal
+skulle
+må
+måtte
+bør
+burde
+
+# 2. Semi-modals / modal-like verbs
+tror
+tru
+mener
+meiner
+antar
+reknar
+forventer
+forventar
+håper
+håpar
+synes
+synast
+tenker
+tenkjer
+ser
+ser ut
+ønsker
+ynskjer
+
+# 3. Weak modal verbs (lower commitment)
+vurderer
+vurderar
+anslår
+anslår
+skjønner
+skjønar
+frykter
+fryktar
+
+# 4. Predictive / future-oriented verbs
+kommer
+kjem
+venter
+ventar
+tenderer
+tenderar
+

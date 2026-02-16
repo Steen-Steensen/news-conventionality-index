@@ -1,0 +1,147 @@
+
+# -----------------------------------------------------------
+# Norwegian Reporting Verb Lexicon — Single-Word Verbs
+# For use in news-style attribution / quotation detection
+# Categories:
+#   1. Neutral speech/reporting verbs
+#   2. Cognitive / evaluative reporting verbs
+#   3. Confirmation / denial verbs
+#   4. Writing / publishing verbs
+#   5. Nynorsk variants
+# -----------------------------------------------------------
+
+# 1. Neutral speech / reporting verbs (Bokmål)
+sier
+sa
+opplyser
+opplyste
+forteller
+fortalte
+meldte
+melder
+kommenterer
+kommenterte
+uttaler
+uttalte
+skriver
+skrev
+rapporterer
+rapporterte
+forklarer
+forklarte
+påpeker
+påpekte
+tilføyer
+tilføyd
+tilføydes
+anser
+
+# 2. Cognitive / evaluative reporting verbs (Bokmål)
+mener
+mente
+hevder
+hevdet
+påstår
+påsto
+antyder
+antydet
+innrømmer
+innrømmet
+kritiserer
+kritiserte
+advarer
+advarte
+slår
+fastslår
+konstaterer
+konstaterte
+fremholder
+fremhever
+fremhevet
+understreker
+understreket
+
+# 3. Confirmation / denial verbs (Bokmål)
+bekrefter
+bekreftet
+avviser
+avviste
+avkrefter
+avkreftet
+benekter
+benektet
+
+# 4. Writing / publishing verbs (Bokmål)
+anfører
+anførte
+viser
+viste
+omtaler
+omtalte
+refererer
+refererte
+
+# 5. Nynorsk variants (speech / cognition)
+seier
+sa
+opplyser
+opplyste
+fortel
+fortalde
+meldar
+meldte
+kommenterer
+kommenterte
+uttalar
+uttalte
+skriv
+skreiv
+rapportar
+rapporterte
+forklarar
+forklarte
+påpeikar
+påpeika
+tilføyer
+tilføyd
+
+meiner
+meinte
+hevda
+påstår
+påsto
+antyder
+antydet
+innrømmer
+innrømte
+kritiserer
+kritiserte
+åtvarar
+åtvara
+slår
+fastslår
+konstaterer
+konstaterte
+framheld
+framhevar
+framheva
+understrekar
+understrekta
+
+stadfestar
+stadfesta
+avviser
+avviste
+avkreftar
+avkrefta
+nektar
+nekta
+anfører
+anførte
+viser
+viste
+omtalar
+omtalte
+refererer
+refererte
+

@@ -1,0 +1,52 @@
+
+# -----------------------------------------------------------
+# NORWEGIAN NARRATIVITY MARKERS — MULTIWORD EXPRESSIONS
+# -----------------------------------------------------------
+
+# Temporal
+i det samme
+i samme øyeblikk
+i det øyeblikket
+på dette tidspunktet
+på samme tid
+etter en stund
+etter ei stund
+i mellomtiden
+i mellomtida
+
+# Spatial
+på stedet
+på staden
+på vei inn
+på veg inn
+på vei ut
+på veg ut
+i nærheten av
+i nærleiken av
+like ved
+
+# Character introduction
+en mann i
+ei kvinne i
+en gutt på
+ei jente på
+en person som
+ein person som
+
+# Perceptual / experiential
+så for seg
+så rundt seg
+kjente på
+la merke til at
+hørte at
+høyrde at
+
+# Narrative perspective shifts
+mens han
+mens hun
+mens ho
+da han
+da hun
+då han
+då ho
+

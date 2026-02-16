@@ -1,0 +1,120 @@
+
+# -----------------------------------------------------------
+# Norwegian Reporting Verb Lexicon — Multiword Patterns
+# For use with tokens_compound() + dfm_lookup()
+# Categories:
+#   1. At-clauses with reporting verbs (speech/cognition)
+#   2. Attributional frames (ifølge / i følge)
+#   3. Result / stance frames
+# -----------------------------------------------------------
+
+# 1. At-clauses (Bokmål)
+sier at
+sa at
+forteller at
+fortalte at
+opplyser at
+opplyste at
+meldte at
+melder at
+kommenterer at
+kommenterte at
+uttaler at
+uttalte at
+skriver at
+skrev at
+rapporterer at
+rapporterte at
+forklarer at
+forklarte at
+påpeker at
+påpekte at
+tilføyer at
+hevder at
+hevdet at
+påstår at
+påsto at
+mener at
+mente at
+anser at
+innrømmer at
+innrømmet at
+slår fast at
+konstaterer at
+konstaterte at
+fremholder at
+fremhever at
+understreker at
+understreket at
+bekrefter at
+bekreftet at
+avviser at
+avviste at
+avkrefter at
+avkreftet at
+benekter at
+benektet at
+
+# 1b. At-clauses (Nynorsk)
+seier at
+sa at
+fortel at
+fortalde at
+opplyser at
+opplyste at
+meldar at
+meldte at
+kommenterer at
+kommenterte at
+uttalar at
+uttalte at
+skriv at
+skreiv at
+rapportar at
+rapporterte at
+forklarar at
+forklarte at
+påpeikar at
+påpeika at
+hevda at
+meiner at
+meinte at
+innrømmer at
+innrømte at
+slår fast at
+framheld at
+framhevar at
+framheva at
+understrekar at
+understrekta at
+stadfestar at
+stadfesta at
+avviser at
+avviste at
+avkreftar at
+avkrefta at
+nektar at
+nekta at
+
+# 2. Attributional frames (Bokmål + Nynorsk)
+ifølge
+i følge
+ifølgje
+i følgje
+ifølge rapporten
+ifølge kildene
+i følge kildene
+ifølgje kjeldene
+i følgje kjeldene
+
+# 3. Result / stance frames
+går ut med at
+går ut og sier at
+går ut og seier at
+går hardt ut mot
+går sterkt ut mot
+tar til orde for at
+tar avstand fra at
+tar selvkritikk for at
+tar sjølvkritikk for at
+

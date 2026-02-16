@@ -1,0 +1,83 @@
+
+# -----------------------------------------------------------
+# NORWEGIAN NARRATIVITY MARKERS — SINGLE WORD ITEMS
+# -----------------------------------------------------------
+
+# 1. Temporal progression
+plutselig
+brått
+etterpå
+først
+senere
+seinare
+deretter
+omsider
+endelig
+endeleg
+til slutt
+etter hvert
+etter kvart
+
+# 2. Spatial progression
+der
+her
+utenfor
+innanfor
+oppe
+nede
+borte
+framfor
+bakom
+foran
+fjernere
+nærmere
+
+# 3. Character introduction
+mannen
+kvinnen
+personen
+gutten
+jenta
+folkene
+familien
+paret
+føreren
+sjåføren
+
+# 4. Perceptual / experiential verbs
+så
+ser
+hørte
+høyrde
+følte
+kjente
+merket
+skjønte
+la merke til
+
+# 5. Common action verbs
+løp
+sprang
+gikk
+gjekk
+kom
+kjem
+stanset
+stoppa
+ropte
+skrek
+fortsatte
+heldt fram
+
+# 6. Concrete detail markers
+blod
+jord
+lys
+mørke
+stille
+bråk
+lyd
+lukt
+skygge
+spor
+
