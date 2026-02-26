@@ -169,6 +169,6 @@ All component features and dimensions are combined using unweighted means.
 
 ## Citation
 
-If you use or adapt these scripts, please cite:
+If you use or us or adapt these scripts, please cite:
 
 [Full reference will be added upon publication]
