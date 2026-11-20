@@ -3,7 +3,7 @@
 #
 # PURPOSE
 #   Builds directly on the output from:
-#     scripts/News_Conv_Features.R
+#     News_Conv_Features.R
 #
 #   This script:
 #     1) Defines NCI feature groups (dimensions)
@@ -51,7 +51,7 @@ invisible(lapply(pkgs, library, character.only = TRUE))
 # Safety checks
 # ------------------------------
 if (!exists("conventionality_df")) {
-  stop("Object `conventionality_df` not found. Run scripts/News_Conv_Features.R first.")
+  stop("Object `conventionality_df` not found. Run News_Conv_Features.R first.")
 }
 if (!is.data.frame(conventionality_df)) {
   stop("`conventionality_df` exists but is not a data.frame.")

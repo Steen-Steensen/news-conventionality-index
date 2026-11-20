@@ -29,10 +29,10 @@ Higher NCI values indicate stronger alignment with conventional hard-news style.
 
 ## Repository structure
 
-- `scripts/News_Conv_Features.R`  
+- `News_Conv_Features.R`  
   Extracts linguistic feature variables from a text corpus and creates `conventionality_df`.
 
-- `scripts/News_conv_index_compilation.R`  
+- `News_conv_index_compilation.R`  
   Builds on `conventionality_df`, z-standardises component features, computes dimension scores, and computes:
   - `epistemic_score`
   - `subjectivity_score`
@@ -124,7 +124,7 @@ Please cite NorSentLex when using those resources.
 2) Extract features:
 
 ```r
-source("scripts/News_Conv_Features.R")
+source("News_Conv_Features.R")
 ```
 
 This creates:
@@ -136,7 +136,7 @@ conventionality_df
 3) Compile the index:
 
 ```r
-source("scripts/News_conv_index_compilation.R")
+source("News_conv_index_compilation.R")
 ```
 
 This adds:
@@ -167,8 +167,28 @@ All component features and dimensions are combined using unweighted means.
 
 ---
 
+## Collocation-based vividness list (generated per corpus)
+
+The feature `vivid_mwe_per100` relies on a list of high-PMI multiword expressions that is **built from the corpus being analysed**. On the first run, `News_Conv_Features.R` identifies these collocations and caches them as:
+
+```
+lexicons/vivid_mwe_from_collocations.txt
+```
+
+This file is not included in the repository, as it is corpus-specific. Later runs reuse the cached list. **Delete the file before running the scripts on a different corpus**, so that the list is rebuilt from the new texts.
+
+---
+
 ## Citation
 
 If you use or adapt these scripts, please cite:
 
-[Full reference will be added upon publication]
+Steensen, S., Olsen, G. R., Kavtaradze, L., & Kalsnes, B. (2026). How Newsy is News? Development and Initial Validation of a Computational News Conventionality Index. *Journalism Studies*. https://doi.org/10.1080/1461670X.2026.2764924
+
+---
+
+## License
+
+The scripts and lexicon files in this repository are released under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+The NorSentLex sentiment lexicons are not part of this repository and are subject to their own license terms.

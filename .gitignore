@@ -2,3 +2,15 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Corpus-specific cache (rebuilt per corpus)
+lexicons/vivid_mwe_from_collocations.txt
+
+# Third-party lexicons (NorSentLex, not redistributed)
+lexicons/Fullform_Positive_lexicon.txt
+lexicons/Fullform_Negative_lexicon.txt
+
+# Output files and data
+*.csv
+.DS_Store
+*.Rproj
